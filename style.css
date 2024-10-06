@@ -11,9 +11,11 @@
   justify-content: space-evenly;
 }
 
-.box {
-  display: inline-block;
-  background-color: darkseagreen;
+.body {
+   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .box2 {
