@@ -1,0 +1,1 @@
+This is the ReadMe for Dan Hassett's Personal Website Part 1 project.  I created the five directory files using the touch command in Terminal, then uploaded them to GetHub.  I completed my JavaScript file first, then implemented CSS on Index, Portfolio, and About Me.  I used Bootstrap to create a header bar with links that is consistent across all three pages.        
